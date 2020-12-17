@@ -2,7 +2,11 @@ body
 {
     text-align: center;
     font-family: "Arial";
+<<<<<<< HEAD
     color: yellow;
+=======
+    color:blue;
+>>>>>>> cabecera
     margin: 0%;
     padding: 0%;
 }
