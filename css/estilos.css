@@ -1,12 +1,8 @@
 body
 {
     text-align: center;
-<<<<<<< HEAD
-    font-family: cursive;
-=======
     font-family: "Arial";
->>>>>>> cabecera
-    color: red;
+    color: yellow;
     margin: 0%;
     padding: 0%;
 }
@@ -21,8 +17,6 @@ body
 #container h1
 {
     font-size: 30px;
-<<<<<<< HEAD
-=======
 }
 
 #cabecera
@@ -40,5 +34,4 @@ body
     font-weight: normal;
     margin: 0 0 0 1em;
     font-size: 0.8em;
->>>>>>> cabecera
 }
