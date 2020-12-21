@@ -1,0 +1,41 @@
+body
+{
+    text-align: center;
+    font-family: "Arial";
+<<<<<<< HEAD
+    color: yellow;
+=======
+    color:blue;
+>>>>>>> cabecera
+    margin: 0%;
+    padding: 0%;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid; 
+    margin: auto;
+}
+#container h1
+{
+    font-size: 30px;
+}
+
+#cabecera
+{
+    background: blue;
+    color: white;
+    margin: 0%;
+    padding: 0.5em;
+    font-weight: bold;
+    box-shadow: 0px 2px 20px 0px;
+}
+
+#cabecera #tagline
+{
+    font-weight: normal;
+    margin: 0 0 0 1em;
+    font-size: 0.8em;
+}
