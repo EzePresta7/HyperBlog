@@ -2,13 +2,11 @@ body
 {
     text-align: center;
     font-family: "Arial";
-<<<<<<< HEAD
-    color: yellow;
-=======
-    color:blue;
->>>>>>> cabecera
+    color:black;
     margin: 0%;
     padding: 0%;
+
+
 }
 #container
 {
@@ -25,12 +23,13 @@ body
 
 #cabecera
 {
-    background: blue;
+    background: url("../imagenes/aereo.jpg") 10px 10px;
     color: white;
     margin: 0%;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
     font-weight: bold;
     box-shadow: 0px 2px 20px 0px;
+    
 }
 
 #cabecera #tagline
@@ -38,4 +37,16 @@ body
     font-weight: normal;
     margin: 0 0 0 1em;
     font-size: 0.8em;
+}
+#post
+{
+    background-color: white;
+    padding: 1em;
+}
+
+#cabecera #logo
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0,8em;
 }
